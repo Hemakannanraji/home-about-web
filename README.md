@@ -3,11 +3,11 @@
 2. Open Command Prompt / Terminal
 
 3. Clone the repository
-git clone <your-github-repo-link>
+git clone https://github.com/Hemakannanraji/home-about-web.git
 
 
 4. Go to the project folder
-cd <repository-folder-name>
+cd repository-folder-name
 
 
 5. Install required dependencies
